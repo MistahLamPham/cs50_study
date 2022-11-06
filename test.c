@@ -3,4 +3,5 @@
 
 void main(void) {
     // test
+    bool flag;
 }
